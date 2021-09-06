@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: cursive;
+}
+
+
+
+
+.innerDiv{
+   
+    border-radius: 12px;
+    padding: 20px;
+    margin-top: 20px;
+    
+}
+
+
+
+
+#log[type=button]:hover {
+    background-color: #45a049;
+  }
